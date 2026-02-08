@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hola, soy Jose Antonio
 
-<!--
-**JosePuges/JosePuges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Actualmente estoy estudiando **Análisis de Datos** y dando mis primeros pasos en el mundo del **Data Analytics**.  
+📊 Me interesa transformar datos en información útil para la toma de decisiones.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+- 📚 Estudiante de Data Analyst  
+- 🧩 Me gusta analizar datos y encontrar patrones  
+- 🚀 En constante aprendizaje  
+- 💡 Interesado en proyectos reales y prácticas
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- 🐍 Python (básico)
+- 🧠 Git & GitHub (En proceso)
+
+---
+
+## 📂 Proyectos destacados
+
+
+*(Más proyectos próximamente 🚧)*
+
+---
+
+## 🎯 Objetivo profesional
+
+Mi objetivo es seguir aprendiendo y crecer como **Data Analyst junior**, participando en proyectos donde pueda aplicar mis conocimientos y seguir desarrollándome.
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: Pascualpuges84@gmail.com
+
+---
+
+⭐ Siempre abierto a aprender y colaborar en nuevos proyectos
