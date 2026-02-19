@@ -1,8 +1,9 @@
 # 👋 Hola, soy Jose Antonio
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/python.gif" width="50">
-  <h3>Data Analyst in progress</h3>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Python.gif" width="300" alt="Python Coding GIF">
+  
+  <p><i>Transformando datos en historias...</i> 🐍✨</p>
 </div>
 
 
