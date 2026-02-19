@@ -1,8 +1,8 @@
 # 👋 Hola, soy Jose Antonio
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6bm96cng1eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/KAq5wXP6Z0NF6/giphy.gif" width="600">
-  <p><i>Escribiendo el futuro línea a línea...</i> 🐍</p>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/python.gif" width="50">
+  <h3>Data Analyst in progress</h3>
 </div>
 
 
